@@ -1,0 +1,8 @@
+- 👋 Hi, I’m @ehsmsh
+- 👀 I’m interested in web development with Python, JavaScript (TypeScript).
+- 📫 You can reach me at ehsan.mashayekh@gmail.com
+
+<!---
+ehsmsh/ehsmsh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
