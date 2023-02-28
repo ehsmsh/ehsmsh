@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ehsmsh
-- 👀 I’m interested in backend and forntend web development with Python, JavaScript (TypeScript).
+- 👀 I’m interested in backend and forntend web development.
 - 📫 You can reach me at ehsan.mashayekh@gmail.com
 
 <!---
